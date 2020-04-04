@@ -11,7 +11,7 @@ Makers Contra a Covid-19 é um grupo autônomo que se organizou a partir da nece
 - [Site do projeto](https://makerscontracovid.net.br/)
 
  # Prusa Face Shield
--[Prusa Face Shield](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3)
+- [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3)
 
 # As máscaras devem seguir as definições da ANVISA.
 
